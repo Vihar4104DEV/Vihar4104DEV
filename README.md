@@ -209,29 +209,60 @@ I'm a **Software Engineer** with strong backend development expertise, currently
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b826-17a295a8ac3e.gif" width="200">
 </div>
 
+### 👥 Combined View (Both Accounts)
+
 <!-- GitHub Stats Grid -->
 <div align="center">
   <table>
     <tr>
+      <td colspan="2" align="center"><strong>📈 Account: Vihar4104DEV</strong></td>
+      <td colspan="2" align="center"><strong>📈 Account: Vihar4104</strong></td>
+    </tr>
+    <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Vihar4104DEV&show_icons=true&theme=tokyonight&border_color=00D9FF&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Vihar's%20GitHub%20Stats" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Vihar4104DEV&show_icons=true&theme=tokyonight&border_color=00D9FF&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Vihar4104DEV%20Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihar4104DEV&layout=compact&theme=tokyonight&border_color=00D9FF&border_radius=15&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide=jupyter%20notebook" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihar4104DEV&layout=compact&theme=tokyonight&border_color=00D9FF&border_radius=15&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide=jupyter%20notebook" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Vihar4104&show_icons=true&theme=tokyonight&border_color=00D9FF&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Second%20Account%20Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihar4104&layout=compact&theme=tokyonight&border_color=00D9FF&border_radius=15&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streaks -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihar4104DEV&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihar4104DEV&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihar4104&theme=tokyonight&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graphs -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihar4104DEV&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF&radius=15" alt="Contribution Graph" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihar4104DEV&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF&radius=15" />
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihar4104&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF&radius=15" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
