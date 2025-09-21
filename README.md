@@ -276,6 +276,14 @@ I'm a **Software Engineer** with strong backend development expertise, currently
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🔔 Important Notice
+
+I have lost access to my old GitHub account **[@Vihar4104](https://github.com/Vihar4104)**.  
+Due to this, I have created a new account **[@Vihar4104DEV](https://github.com/Vihar4104DEV)**.  
+
+All my future projects and updates will be available here on this account.  
+
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -299,6 +307,7 @@ I'm a **Software Engineer** with strong backend development expertise, currently
 </a>
 
 </div>
+
 
 <!-- Dynamic Quote -->
 <div align="center">
